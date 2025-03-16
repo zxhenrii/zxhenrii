@@ -52,7 +52,7 @@
 ## 📬 Contato
 
 <a href="https://discord.com/users/SEU_ID" target="_blank">
-    <img align="left" alt="Discord" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg"/>
+    <img align="left" alt="Discord" width="30px" style="padding-right: 10px;" src="https://cdn3.emoji.gg/emojis/9255-discord.png"/>
 </a>
 
 <a href="https://instagram.com/SEU_USER" target="_blank">
