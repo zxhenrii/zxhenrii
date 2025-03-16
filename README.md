@@ -48,25 +48,18 @@
 ## 📬 Contato
 
 <p align="left">
-## 📬 Contato
-## 📬 Contato
-
 <a href="https://discord.com/users/797922004920827904" target="_blank">
     <img align="left" alt="Discord" width="30px" style="padding-right: 10px;" src="https://cdn3.emoji.gg/emojis/9255-discord.png"/>
 </a>
-
 <a href="https://instagram.com/henriz.zx" target="_blank">
     <img align="left" alt="Instagram" width="30px" style="padding-right: 10px;" src="https://cdn3.emoji.gg/emojis/54646-instagram.png"/>
 </a>
-
 <a href="https://github.com/zxhenrii" target="_blank">
     <img align="left" alt="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </a>
-
 <a href="https://open.spotify.com/user/31mv6piiuyfdaz5wksyokzqad65q" target="_blank">
     <img align="left" alt="Spotify" width="30px" style="padding-right: 10px;" src="https://cdn3.emoji.gg/emojis/35248-spotify.png"/>
 </a>
-
 <a href="mailto:SEU_EMAIL" target="_blank">
     <img align="left" alt="E-mail" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
 </a>
