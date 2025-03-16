@@ -85,6 +85,6 @@ Eu sou um desenvolvedor carioca, que programa desde o final de 2021, comecei a p
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxhenrii&layout=compact&title_color=2e247a&text_color=fff&bg_color=0D1117" />
       </td>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zxhenrii&theme=shadow-purple&hide_border=&locale=pt_BR&short_numbers=&card_width=494&card_height=194&border=868789&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zxhenrii&theme=shadow-purple&hide_border=&locale=pt_BR&card_width=494&card_height=194&border=868789&background=0D1117&sideNums=30257F&dates=868789&ring=1E1851&currStreakNum=4234AF&fire=2E247A&sideLabels=FFFFFF&stroke=868789&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zxhenrii&bg_color=000000&color=ffffff&line=2e247a&point=ffffff&area=true&hide_border=true&custom_title=commits+by+henrii)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
