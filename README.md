@@ -48,15 +48,19 @@
 ## 📬 Contato
 
 <p align="left">
-  <a href="https://discord.com/users/SEU_ID_DISCORD" target="_blank">
-    <img align="left" alt="Discord" title="Discord" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg"/>
-  </a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img align="left" alt="Instagram" title="Instagram" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"/>
-  </a>
-  <a href="https://github.com/zxhenrii" target="_blank">
-    <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  </a>
+## 📬 Contato
+<a href="https://discord.com/users/SEU_ID" target="_blank">
+    <img align="left" alt="Discord" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg"/>
+</a>
+<a href="https://instagram.com/SEU_USER" target="_blank">
+    <img align="left" alt="Instagram" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"/>
+</a>
+<a href="https://github.com/zxhenrii" target="_blank">
+    <img align="left" alt="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</a>
+<a href="https://open.spotify.com/user/SEU_USER" target="_blank">
+    <img align="left" alt="Spotify" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spotify/spotify-original.svg"/>
+</a>
 </p>
 
 ---
