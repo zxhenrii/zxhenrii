@@ -9,7 +9,7 @@
 - Me aprofundei cada vez mais nessa área e hoje sigo evoluindo e motivando outras pessoas.
 
 🎯 **Metas:** Tornar-me um desenvolvedor fullstack antes de 2027.<br>
-🚀 **Projetos:** [Meu GitHub](https://github.com/zxhenrii?tab=repositories)
+🚀 **Projetos:** [github.com/zxhenrii](https://github.com/zxhenrii?tab=repositories)
 
 ---
 
