@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=2623c4&center=true&vCenter=true&width=1000&lines=Boas+vindas+ao+meu+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=Boas+vindas+ao+meu+perfil)](https://git.io/typing-svg)
 
 ## 🌙 Sobre mim
 
@@ -74,4 +74,6 @@ Eu sou um desenvolvedor carioca, que programa desde o final de 2021, comecei a p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
+
+## 📊 Estatísticas
 
