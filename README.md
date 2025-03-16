@@ -49,7 +49,7 @@
 
 <p align="left">
 ## 📬 Contato
-<a href="https://discord.com/users/SEU_ID" target="_blank">
+<a href="https://discord.com/users/797922004920827904" target="_blank">
     <img align="left" alt="Discord" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg"/>
 </a>
 <a href="https://instagram.com/SEU_USER" target="_blank">
