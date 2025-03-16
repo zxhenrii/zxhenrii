@@ -1,1 +1,1 @@
-# zxhenrii-v2
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Boas+vindas+ao+meu+perfil)](https://git.io/typing-svg)
