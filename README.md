@@ -52,7 +52,7 @@
     <img align="left" alt="Discord" width="30px" style="padding-right: 10px;" src="https://cdn3.emoji.gg/emojis/9255-discord.png"/>
 </a>
 <a href="https://instagram.com/henriz.zx" target="_blank">
-    <img align="left" alt="Instagram" width="30px" style="padding-right: 10px;" src="[https://cdn3.emoji.gg/emojis/54646-instagram.png](https://cdn3.emoji.gg/emojis/7807-instagram.png)"/>
+    <img align="left" alt="Instagram" width="30px" style="padding-right: 10px;" src="https://cdn3.emoji.gg/emojis/54646-instagram.png"/>
 </a>
 <a href="https://github.com/zxhenrii" target="_blank">
     <img align="left" alt="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
