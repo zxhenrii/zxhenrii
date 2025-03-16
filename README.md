@@ -60,7 +60,7 @@
 <a href="https://open.spotify.com/user/31mv6piiuyfdaz5wksyokzqad65q" target="_blank">
     <img align="left" alt="Spotify" width="30px" style="padding-right: 10px;" src="https://cdn3.emoji.gg/emojis/35248-spotify.png"/>
 </a>
-<a href="mailto:SEU_EMAIL" target="_blank">
+<a href="mailto:jorgehenri099@gmail.com" target="_blank">
     <img align="left" alt="E-mail" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
 </a>
 </p>
