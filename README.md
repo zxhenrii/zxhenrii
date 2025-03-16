@@ -2,4 +2,5 @@
 
 ## 🌙 Sobre mim
 
-- Prazer, me chamo <strong>Henri</strong>! Eu sou um desenvolvedor front-end
+- Prazer, me chamo <strong>Henri</strong>! Eu sou um desenvolvedor front-end que ama essa area da programação.
+Eu sou desenvolvedor desde o final de 2022 mas comecei a focar realmente no meio de 2024, 
