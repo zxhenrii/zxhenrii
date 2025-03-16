@@ -93,4 +93,5 @@ Eu sou um desenvolvedor carioca, que programa desde o final de 2021, comecei a p
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxhenrii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=zxhenrii&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=falso&card_width=494&card_height=194)](https://git.io/streak-stats)
 </p>
