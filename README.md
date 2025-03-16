@@ -45,7 +45,7 @@
 
 ---
 
-## 📬 Contato
+## 🔗 Links
 
 <p align="left">
 <a href="https://discord.com/users/797922004920827904" target="_blank">
