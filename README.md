@@ -5,7 +5,7 @@
 ## 🌙 Sobre mim
 
 - Olá, me chamo **Henri**! Sou um desenvolvedor front-end apaixonado por programação.
-- Carioca, programo desde o final de 2021 e comecei criando bots e apps para Discord.
+- Carioca, programo desde o final de 2022 e comecei criando bots e apps para Discord.
 - Me aprofundei cada vez mais nessa área e hoje sigo evoluindo e motivando outras pessoas.
 
 🎯 **Metas:** Tornar-me um desenvolvedor fullstack antes de 2027.<br>
