@@ -33,7 +33,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxhenrii&layout=compact&title_color=2e247a&text_color=fff&bg_color=0D1117&cache_seconds=60"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zxhenrii&show_icons=true&title_color=2e247a&text_color=fff&icon_color=2e247a&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxhenrii&layout=compact&title_color=2e247a&text_color=fff&bg_color=0D1117&cache_seconds=60"/>
 
 </p>
