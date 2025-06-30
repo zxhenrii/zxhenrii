@@ -1,33 +1,33 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=2E247A&center=true&vCenter=true&width=1000&lines=Boas+vindas!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=2E247A&center=true&vCenter=true&width=1000&lines=Welcome!+👋)](https://git.io/typing-svg)
 
-# 👾 Jorge Henrique — (também conhecido como Six nas redes)
+# Jorge Henrique — (also known as Six on social media)
 ---
 
-Sou **Jorge Henrique**, um desenvolvedor apaixonado por tecnologia e programação.  
-Minha jornada começou em 2022, criando bots para Discord apenas como passatempo, sem intenção de seguir na área. Mas, com o tempo, a curiosidade virou paixão.  
+I'm **Jorge Henrique**, a developer passionate about technology and programming.  
+My journey started back in 2022, creating Discord bots just for fun, with no intention of following a programming career. But over time, curiosity turned into passion.  
 
-Enfrentando obstáculos e desafios, sigo firme no meu objetivo:  
-**Me tornar um desenvolvedor fullstack antes dos 20 anos.**  
+Facing obstacles and challenges, I stay strong on my main goal:  
+**To become a Fullstack Developer before I turn 20.**  
 
-Decidi zerar tudo e recomeçar, escolhendo uma linguagem completamente nova para mim: **Java**, a tão subestimada (ou odiada) por muitos devs.  
-Vou desenvolver diversos projetos e deixar todos públicos aqui no meu GitHub.  
+I decided to reset everything and start over, choosing a completely new language for me: **Java**, the one hated (or underestimated) by many devs.  
+I'll be developing various projects and making them all public here on my GitHub.  
 
-> 🚀 **"O cemitério tá cheio de quem disse ‘depois eu faço’. Eu não sou um deles."**  
-
----
-
-## 🛠️ Jornada  
-
-Em meados de **2022**, comecei desenvolvendo bots para Discord, sem pretensão nenhuma de seguir na programação. Passei cerca de **1 ano e meio** nessa, até que comecei a me interessar mais pela área.  
-
-Descobri vídeos de **HTML, CSS e JavaScript** e pensei: *"Por que não assistir?"*  
-Naquela época, eu sabia só o básico do básico de JavaScript, resultado dos bots que criava.  
-
-Com o tempo, me apaixonei de vez pela programação. Então, em **julho de 2025**, decidi **zerar tudo e recomeçar do zero**, agora focando no **backend com Java**, enquanto sigo firme no caminho rumo ao **Fullstack**.  
+>  **"The cemetery is full of people who said 'I'll do it later'. I am not — and will never be — one of them."**  
 
 ---
 
-## 🚀 Tecnologias e Ferramentas  
+## 🛠️ Journey  
+
+Around **2022**, I started developing Discord bots, with no intention of pursuing programming seriously. I spent about **1 year and a half** doing that until I became more curious about the tech world.  
+
+I found some videos about **HTML, CSS, and JavaScript** and thought: *"Why not watch them?"*  
+At that time, I only knew the absolute basics of JavaScript, just enough for the bots I was creating.  
+
+As I kept learning, I completely fell in love with programming. So, in **July 2025**, I made the decision to **reset everything and start over**, now focusing on **backend with Java**, while moving strongly towards the **Fullstack path**.  
+
+---
+
+## Technologies & Tools  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" title="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -46,12 +46,12 @@ Com o tempo, me apaixonei de vez pela programação. Então, em **julho de 2025*
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zxhenrii&theme=shadow-purple&hide_border=true&locale=pt_BR&card_width=494&card_height=194&background=0D1117&ring=2E247A&fire=2E247A&currStreakNum=4234AF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=30257F&dates=868789&stroke=868789"/>
+  <img src="https://streak-stats.demolab.com/?user=zxhenrii&theme=shadow-purple&hide_border=true&locale=en&card_width=494&card_height=194&background=0D1117&ring=2E247A&fire=2E247A&currStreakNum=4234AF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=30257F&dates=868789&stroke=868789"/>
 </div>
 
 
 <div align="center">
   
-  ### 🔥 **Nunca pare. Nunca desista. Simplesmente faça.**
+  > **Never stop. Never give up. Just do it.**
 
 </div>
