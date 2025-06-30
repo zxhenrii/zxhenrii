@@ -3,14 +3,13 @@
 # Jorge Henrique — (also known as Six on social media)
 ---
 
-I'm **Jorge Henrique**, a developer passionate about technology and programming.  
-My journey started back in 2022, creating Discord bots just for fun, with no intention of following a programming career. But over time, curiosity turned into passion.  
+I am **Jorge Henrique**, a developer passionate about technology and programming.  
+My journey began in 2022, creating bots for Discord just as a hobby, with no intention of following in the area. But over time, curiosity became passion.  
 
-Facing obstacles and challenges, I stay strong on my main goal:  
-**To become a Fullstack Developer before I turn 20.**  
+Facing obstacles and challenges, I remain steadfast in my goal:  
+**I became a fullstack developer before the age of 20.**  
 
-I decided to reset everything and start over, choosing a completely new language for me: **Java**, the one hated (or underestimated) by many devs.  
-I'll be developing various projects and making them all public here on my GitHub.  
+I decided to start over from scratch, choosing a new complete language for me: **Java**, the one so hated by many developers.  
 
 >  **"The cemetery is full of people who said 'I'll do it later'. I am not — and will never be — one of them."**  
 
@@ -18,13 +17,7 @@ I'll be developing various projects and making them all public here on my GitHub
 
 ## 🛠️ Journey  
 
-Around **2022**, I started developing Discord bots, with no intention of pursuing programming seriously. I spent about **1 year and a half** doing that until I became more curious about the tech world.  
-
-I found some videos about **HTML, CSS, and JavaScript** and thought: *"Why not watch them?"*  
-At that time, I only knew the absolute basics of JavaScript, just enough for the bots I was creating.  
-
-As I kept learning, I completely fell in love with programming. So, in **July 2025**, I made the decision to **reset everything and start over**, now focusing on **backend with Java**, while moving strongly towards the **Fullstack path**.  
-
+In mid-2022, I started creating bots for Discord as a hobby, with no intention of following the schedule. I stayed in this for about 1 and a half years, until, out of curiosity, I started to research more about the area. I ended up finding some HTML, CSS and JavaScript videos and thought: “Why not watch?”. At the time, I only knew the basics of JavaScript, thanks to the bots I did on Discord. As I studied, I fell in love with programming. So, in July 2025, I decided to zero everything and start over, now focused on the Java backend, following firmly on the journey towards fullstack.
 ---
 
 ## Technologies & Tools  
