@@ -1,37 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=2e247a&center=true&vCenter=true&width=1000&lines=Boas+vindas+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=2e247a&center=true&vCenter=true&width=1000&lines=Boas+vindas!)](https://git.io/typing-svg)
 
+# I'm Jorge Henrique (tambem conhecido como six ou henri nas redes sociais)
 ---
+Sou Jorge Henrique, sou um desenvolvedor apaixonado pelo mundo da programação, eu comecei fazendo bots para o discord e tamo ai né kk, idepedente das dificudades e obstaculos eu não desistirei do meu maior objetivo, me tornar um desenvolvedor fullstack antes dos 20y.
+Eu decidi recomeçar do zero, e simplesmente com uma linguagem totalmente nova, e atualmente estou estudando java a lignagugem odiada pelos devs, farei vários projeytos e deixarei eles publicos em meu github.
+> -# “O cemitério tá cheio de quem disse ‘depois eu faço’. E eu não sou um deles.”
 
-## 🌙 Sobre mim
+# Jornada
+Em meados de 2022, comecei a criar bots para discord como passatempo mesmo, sem qualquer intenção de seguir na programação. Fiquei nessa por volta de 1 ano e meio, até que, por curiosidade, comecei a pesquisar mais sobre essa área. Acabei encontrando alguns vídeos de HTML, CSS e JavaScript e pensei: ‘Por que não assitir?’. Na época, eu só sabia o básico do básico de JavaScript, graças aos bots que fazia no discord. Conforme fui estudando, me apaixonei de vez pela programação. Então, em julho de 2025, decidi zerar tudo e recomeçar, agora focado no backend com Java, seguindo firme na jornada rumo ao fullstack. 
 
-- Olá, me chamo **Henri**! Sou um desenvolvedor front-end apaixonado por programação.
-- Carioca, programo desde o final de 2022 e comecei criando bots e apps para Discord.
-- Me aprofundei cada vez mais nessa área e hoje sigo evoluindo e motivando outras pessoas.
-
-🎯 **Metas:** Tornar-me um desenvolvedor fullstack antes de 2027.<br>
-🚀 **Projetos:** [github.com/zxhenrii](https://github.com/zxhenrii?tab=repositories)
-
----
-
-## 👨‍💻 Skills & Tools
-
+# Linguagens e Tecnologias
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Rust" title="Rust" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Lua" title="Lua" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-<img align="left" alt="Rust" title="Rust" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-<img align="left" alt="VS Code" title="Visual Studio Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="VS Code" title="Visual Studio Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
-<br><br>
-
----
-
-## 📊 Estatísticas
+<img align="left" alt="Java" title="Rust" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zxhenrii&show_icons=true&title_color=2e247a&text_color=fff&icon_color=2e247a&bg_color=0D1117"/>
@@ -40,33 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zxhenrii&theme=shadow-purple&hide_border=&locale=pt_BR&card_width=494&card_height=194&border=868789&background=0D1117&sideNums=30257F&dates=868789&ring=1E1851&currStreakNum=4234AF&fire=2E247A&sideLabels=FFFFFF&stroke=868789&currStreakLabel=FFFFFF"/>
+  <img src="https://streak-stats.demolab.com/?user=zxhenrii&theme=shadow-purple&hide_border=&locale=pt_BR&card_width=494&card_height=194&border=868789&background=0D1117&sideNums=30257F&dates=868789&ring=1E1851&currStreakNum=4234AF&fire=2E247A&sideLabels=FFFFFF&stroke=868789&currStreakLabel=FFFFFF"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zxhenrii&bg_color=000000&color=ffffff&line=2e247a&point=ffffff&area=true&hide_border=true&custom_title=Commits+by+Henrii"/>
-</p>
-
----
-
-## 🔗 Links
-
-<p align="left">
-<a href="https://discord.com/users/797922004920827904" target="_blank">
-    <img align="left" alt="Discord" width="30px" style="padding-right: 10px;" src="https://cdn3.emoji.gg/emojis/9255-discord.png"/>
-</a>
-<a href="https://instagram.com/henriz.zx" target="_blank">
-    <img align="left" alt="Instagram" width="30px" style="padding-right: 10px;" src="https://cdn3.emoji.gg/emojis/54646-instagram.png"/>
-</a>
-<a href="https://github.com/zxhenrii" target="_blank">
-    <img align="left" alt="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</a>
-<a href="https://open.spotify.com/user/31mv6piiuyfdaz5wksyokzqad65q" target="_blank">
-    <img align="left" alt="Spotify" width="30px" style="padding-right: 10px;" src="https://cdn3.emoji.gg/emojis/35248-spotify.png"/>
-</a>
-<a href="mailto:jorgehenriz099@gmail.com" target="_blank">
-    <img align="left" alt="E-mail" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
-</a>
-</p>
-
----
+“Recomeçar não é vergonha. É a chance de transformar o que você já sabia em algo ainda maior. Aprender de novo, de forma melhor, usando sua própria bagagem como aliada. Nunca é tarde para recomeçar — na vida, nos sonhos, em você.”
