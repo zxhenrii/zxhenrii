@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=2E247A&center=true&vCenter=true&width=1000&lines=Welcome!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=2E247A&center=true&vCenter=true&width=1000&lines=Welcome!)](https://git.io/typing-svg)
 
 # Jorge Henrique — (also known as Six on social media)
 ---
@@ -18,6 +18,7 @@ I decided to start over from scratch, choosing a new complete language for me: *
 ## 🛠️ Journey  
 
 In mid-2022, I started creating bots for Discord as a hobby, with no intention of following the schedule. I stayed in this for about 1 and a half years, until, out of curiosity, I started to research more about the area. I ended up finding some HTML, CSS and JavaScript videos and thought: “Why not watch?”. At the time, I only knew the basics of JavaScript, thanks to the bots I did on Discord. As I studied, I fell in love with programming. So, in July 2025, I decided to zero everything and start over, now focused on the Java backend, following firmly on the journey towards fullstack.
+
 ---
 
 ## Technologies & Tools  
