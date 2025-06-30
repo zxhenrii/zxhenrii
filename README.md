@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=2E247A&center=true&vCenter=true&width=1000&lines=Welcome!)](https://git.io/typing-svg)
 
-# Jorge Henrique — (also known as Six on social media)
+# Jorge Henrique — (Most known as Six in the web)
 ---
 
 I am **Jorge Henrique**, a developer passionate about technology and programming.  
