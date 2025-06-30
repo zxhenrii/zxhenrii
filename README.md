@@ -11,7 +11,7 @@ Facing obstacles and challenges, I remain steadfast in my goal:
 
 I decided to start over from scratch, choosing a new complete language for me: **Java**, the one so hated by many developers.  
 
->  **"The cemetery is full of people who said 'I'll do it later'. I am not — and will never be — one of them."**  
+>  **"Tomorrow does not exist. It's today or never."**  
 
 ---
 
