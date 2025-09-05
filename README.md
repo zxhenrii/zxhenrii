@@ -23,12 +23,12 @@ In mid-2022, I started creating bots for Discord as a hobby, with no intention o
 
 ## Technologies & Tools  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" title="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" title="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" title="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java" title="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="Csharp" title="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/chsarp-original.svg">
+<div style="display: inline_block"><br>  
+  <img align="center" alt="HTML" title="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  
+  <img align="center" alt="CSS" title="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  
+  <img align="center" alt="JavaScript" title="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
+  <img align="center" alt="Java" title="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
+  <img align="center" alt="Csharp" title="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">  
 </div>
 
 ---
