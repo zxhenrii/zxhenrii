@@ -23,8 +23,6 @@ In mid-2022, I started creating bots for Discord as a hobby, with no intention o
 
 ## Technologies & Tools  
 
-## Technologies & Tools  
-
 <div style="display: inline_block"><br>  
   <img align="center" alt="HTML" title="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  
   <img align="center" alt="CSS" title="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  
